@@ -22,7 +22,7 @@ class _ForgotPassword_HereState extends State<ForgotPassword_Here> {
     // change your email here
     String username = 'vahithhasannorth@gmail.com';
     // change your password here
-    String password = 'idtyefgburvogera';
+    String password = 'oxec cash bpbo atsn';
     final smtpServer = gmail(username, password);
     final message = Message()
       ..from = Address(username, 'Mail Service')
